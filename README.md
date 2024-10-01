@@ -1,4 +1,4 @@
-# Dice-iOS13
+# Dicee-iOS13
 İkinci swift uygulamam.
 
 
